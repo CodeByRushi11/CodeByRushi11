@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**CodeByRushi11/CodeByRushi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Rushikesh – Data Analyst
 
-Here are some ideas to get you started:
+• Python | SQL | Power BI | Excel
+• Passionate about extracting insights from data
+• Experience in EDA, data cleaning & dashboarding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Skills
+
+Python (Pandas, NumPy, Matplotlib)
+
+SQL
+
+Power BI
+
+Excel
+
+Data Visualization
+
+Machine Learning (Basic)
+
+📊 Featured Projects
+
+(Add links to your top 3 data projects)
+
+This instantly upgrades your profile look.
