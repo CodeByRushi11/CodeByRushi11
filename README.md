@@ -33,27 +33,31 @@ I have worked on real-world datasets using Python, SQL, Excel, and Power BI to u
 ---
 
 ## 📊 Featured Data Projects  
+### 🔹 Credit Card Financial Analytics Dashboard (Power BI)
 
-### 🔹 Superstore Sales Analysis (Python EDA)  
-📌 Exploratory Data Analysis on Superstore dataset to identify sales trends, top-performing regions, and profit patterns.  
-🔗 Repository:  
-https://github.com/CodeByRushi11/superstore-data-analysis  
+📌 Interactive **Power BI dashboard** analyzing credit card transactions and customer behavior to uncover revenue trends, spending patterns, and demographic insights.
 
----
-
-### 🔹 Grocery Inventory Analytics (Python + SQL)  
-📌 Data cleaning and analysis of grocery inventory data to uncover stock and pricing insights.  
-🔗 Repository:  
-https://github.com/CodeByRushi11/grocery-inventory-analysis  
+🔗 Repository:
+https://github.com/CodeByRushi11/credit-card-financial-analytics-dashboard
 
 ---
 
-### 🔹 Vrinda Store Sales Dashboard (Excel Analysis)  
-📌 Excel-based sales analysis and interactive dashboard for business performance tracking.  
-🔗 Repository:  
-https://github.com/CodeByRushi11/Vrinda-Store-Excel-Data-Analysis  
+### 🔹 Superstore Sales Analysis (Python EDA)
+
+📌 Exploratory Data Analysis on the Superstore dataset to identify sales trends, top-performing regions, and profit patterns using Python.
+
+🔗 Repository:
+https://github.com/CodeByRushi11/superstore-data-analysis
 
 ---
+
+### 🔹 Grocery Inventory Analytics (Python + SQL)
+
+📌 Data cleaning and analysis of grocery inventory data to uncover stock patterns, pricing insights, and inventory optimization opportunities.
+
+🔗 Repository:
+https://github.com/CodeByRushi11/grocery-inventory-analysis
+
 
 ## 📈 What I Focus On  
 
