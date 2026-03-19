@@ -1,20 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Rushikesh%20Ingole&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20%26%20AI%20Enthusiast&descSize=20&descAlignY=58&descColor=e0e0ff" />
+# 👋 Hi, I'm Rushikesh Ingole
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Data+Analyst+%F0%9F%93%8A;BI+%26+AI+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%F0%9F%9B%A0%EF%B8%8F;Turning+Data+into+Insights+%F0%9F%92%A1" alt="Typing SVG" />
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://rushikesh-dev-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-ingole-b02052377/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshingole467@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByRushi11)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- Add your portfolio link if available -->
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=CodeByRushi11&label=Profile%20Views&color=667eea&style=flat)
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=CodeByRushi11&theme=tokyonight&no-frame=true&row=2&column=4" width="100%" alt="trophy" />
 
 </div>
 
@@ -49,17 +44,15 @@ Hello! I'm **Rushikesh**, an aspiring **Data Analyst** who loves turning raw dat
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 🧠 Core Skills (with proficiency)
+### 🧠 Core Skills
 
-| Skill | Level |
-|-------|-------|
-| Exploratory Data Analysis (EDA) | ▰▰▰▰▰▰▰▰▰▰ 90% |
-| Data Cleaning & Transformation | ▰▰▰▰▰▰▰▰▰▰ 90% |
-| Data Visualization | ▰▰▰▰▰▰▰▰▰ 85% |
-| BI Reporting | ▰▰▰▰▰▰▰▰ 80% |
-| SQL Querying | ▰▰▰▰▰▰▰▰▰ 85% |
-| Python for Data Analysis | ▰▰▰▰▰▰▰▰ 80% |
-| Basic Machine Learning | ▰▰▰▰▰▰ 60% |
+| Skill | Description |
+|-------|-------------|
+| 🔍 Exploratory Data Analysis (EDA) | Finding patterns and trends in raw data |
+| 🧹 Data Cleaning & Transformation | Making messy data usable and accurate |
+| 📈 Data Visualization | Turning numbers into clear visual stories |
+| 📋 BI Reporting | Building dashboards for business decisions |
+| 🤖 Basic Machine Learning | Applying predictive models to data |
 
 ---
 
@@ -110,23 +103,12 @@ Hello! I'm **Rushikesh**, an aspiring **Data Analyst** who loves turning raw dat
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
 
-<!-- Stats Cards -->
 <img src="https://github-readme-stats.vercel.app/api?username=CodeByRushi11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByRushi11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" height="165"/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByRushi11&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9" width="100%" alt="streak"/>
-
-<!-- Contribution Graph (requires a separate action, but you can link to an external one) -->
-<img src="https://activity-graph.herokuapp.com/graph?username=CodeByRushi11&theme=react-dark&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
-
-<!-- Snake animation (optional – requires a GitHub Action to generate) -->
-<!-- Uncomment below if you set up the snake action -->
-<!-- <img src="https://github.com/CodeByRushi11/CodeByRushi11/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" /> -->
 
 </div>
 
@@ -140,3 +122,31 @@ Hello! I'm **Rushikesh**, an aspiring **Data Analyst** who loves turning raw dat
 ✅  Building insightful dashboards in Power BI
 ✅  Extracting business-focused insights from raw data
 ✅  Learning new tools and techniques in data & AI
+```
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to learning, collaborating, and exploring new opportunities.
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | [rushikesh-dev-portfolio.netlify.app](https://rushikesh-dev-portfolio.netlify.app/) |
+| 💼 LinkedIn | [rushikesh-ingole-b02052377](https://www.linkedin.com/in/rushikesh-ingole-b02052377/) |
+| 📧 Email | [rushikeshingole467@gmail.com](mailto:rushikeshingole467@gmail.com) |
+| 🐙 GitHub | [CodeByRushi11](https://github.com/CodeByRushi11) |
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Open to Entry-Level Roles in Data Analytics, Business Intelligence & AI-Driven Analytics**
+
+![footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ea74a33ce264101edeba67e/images/footer.svg)
+
+</div>
