@@ -32,13 +32,14 @@ I have worked on real-world datasets using Python, SQL, Excel, and Power BI to u
 
 ---
 
-## 📊 Featured Data Projects  
-### 🔹 Credit Card Financial Analytics Dashboard (Power BI)
+## 📊 Featured Data Projects
 
-📌 Interactive **Power BI dashboard** analyzing credit card transactions and customer behavior to uncover revenue trends, spending patterns, and demographic insights.
+### 🔹 Chocolate Sales Analytics Dashboard (Power BI)
+
+📌 Interactive **Power BI dashboard** analyzing chocolate sales data across products, customers, and store performance to uncover revenue trends, profitability insights, and business patterns.
 
 🔗 Repository:
-https://github.com/CodeByRushi11/credit-card-financial-analytics-dashboard
+https://github.com/CodeByRushi11/chocolate-sales-powerbi-dashboard
 
 ---
 
