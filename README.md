@@ -143,6 +143,7 @@ I'm always open to learning, collaborating, and exploring new opportunities.
 
 ---
 
+
 <div align="center">
 
 ⭐ **Open to Entry-Level Roles in Data Analytics, Business Intelligence & AI-Driven Analytics**
@@ -150,3 +151,4 @@ I'm always open to learning, collaborating, and exploring new opportunities.
 ![footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ea74a33ce264101edeba67e/images/footer.svg)
 
 </div>
+
