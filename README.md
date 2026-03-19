@@ -148,7 +148,9 @@ I'm always open to learning, collaborating, and exploring new opportunities.
 
 ⭐ **Open to Entry-Level Roles in Data Analytics, Business Intelligence & AI-Driven Analytics**
 
-![footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ea74a33ce264101edeba67e/images/footer.svg)
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-blue?style=for-the-badge" />
+</div>
 
 </div>
 
