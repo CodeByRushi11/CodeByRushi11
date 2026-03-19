@@ -39,7 +39,7 @@ I have worked on real-world datasets using Python, SQL, Excel, and Power BI to u
 📌 Interactive **Power BI dashboard** analyzing chocolate sales data across products, customers, and store performance to uncover revenue trends, profitability insights, and business patterns.
 
 🔗 Repository:
-https://github.com/CodeByRushi11/chocolate-sales-powerbi-dashboard
+[https://github.com/CodeByRushi11/chocolate-sales-powerbi-dashboard](https://github.com/CodeByRushi11/Chocolate-Sales-Analysis-Power-BI-Dashboard.git)
 
 ---
 
