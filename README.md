@@ -183,10 +183,9 @@ Email    : rushikeshingole467@gmail.com
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CodeByRushi11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=CodeByRushi11&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
